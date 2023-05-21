@@ -1,0 +1,18 @@
+body
+{
+	background-repeat:no-repeat;
+background-image:url("jg.jpg");
+background-size:cover;
+}
+ul
+{
+	align:right;
+}
+
+ul li
+{
+	display:inline-block;
+	padding:100px;
+	border: 1px solid black;
+	
+}
